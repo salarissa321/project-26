@@ -200,3 +200,24 @@ box-shadow: none;
 margin-left: 20px;
 }
 
+.mybild{
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+.mysubtitel{
+    font-family: var(--uicore-typography--h3-f,);
+   margin-left: 100px;
+    color: #000;
+    font-size: 40px; 
+    padding: 0;
+    
+}
+
+.mysentence{
+    font-size: 19px;
+    font-weight: 500;
+    color: #000;
+    margin-left: 100px;
+}
+
